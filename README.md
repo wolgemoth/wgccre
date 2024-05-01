@@ -20,6 +20,6 @@ Simply include it in your project and you are ready to start!
 
 ### Note
 
-If you intend to anything more advanced than amateur astronomy, there exist far more precise solutions, such as those provided by NASA JPL, the IAU Minor Planets Centre, and  the IERS.
+If you intend to do anything more advanced than amateur astronomy, there exist far more precise solutions, such as those provided by NASA JPL, the IAU Minor Planets Centre, and  the IERS.
 
 This project is also in no way associated with the IAU or WGCCRE. Please refer to the official sources for the most up-to-date reports and errata.
